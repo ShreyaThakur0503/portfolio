@@ -4,34 +4,29 @@
     "version": "5ed7ea84"
   },
   "products": [
-    {"id": "prod-5ed7ea84-001", "name": "Laptop Pro", "category": "electronics", "price": 1299.99, "stock": 45, "rating": 4.5},
-    {"id": "prod-5ed7ea84-002", "name": "Gaming Laptop", "category": "electronics", "price": 999.99, "stock": 50, "rating": 4.2},
-    {"id": "prod-5ed7ea84-003", "name": "Tablet XL", "category": "electronics", "price": 799.99, "stock": 60, "rating": 4.0},
-    {"id": "prod-5ed7ea84-004", "name": "Monitor 4K", "category": "electronics", "price": 599.99, "stock": 9, "rating": 4.7},
-
-    {"id": "prod-5ed7ea84-005", "name": "Running Shoes", "category": "sports", "price": 89.99, "stock": 100, "rating": 4.3},
-    {"id": "prod-5ed7ea84-006", "name": "Yoga Mat", "category": "sports", "price": 24.99, "stock": 200, "rating": 4.4},
-    {"id": "prod-5ed7ea84-007", "name": "Dumbbells Set", "category": "sports", "price": 59.99, "stock": 80, "rating": 4.6},
-    {"id": "prod-5ed7ea84-008", "name": "Water Bottle", "category": "sports", "price": 19.99, "stock": 300, "rating": 4.1},
-
-    {"id": "prod-5ed7ea84-009", "name": "Fiction Novel", "category": "books", "price": 14.99, "stock": 500, "rating": 4.8},
-    {"id": "prod-5ed7ea84-010", "name": "Cook Book", "category": "books", "price": 24.99, "stock": 150, "rating": 4.5},
-    {"id": "prod-5ed7ea84-011", "name": "Science Book", "category": "books", "price": 34.99, "stock": 200, "rating": 4.3},
-    {"id": "prod-5ed7ea84-012", "name": "History Book", "category": "books", "price": 19.99, "stock": 250, "rating": 4.2},
-
-    {"id": "prod-5ed7ea84-013", "name": "T-Shirt", "category": "clothing", "price": 19.99, "stock": 400, "rating": 4.0},
-    {"id": "prod-5ed7ea84-014", "name": "Jeans", "category": "clothing", "price": 49.99, "stock": 200, "rating": 4.3},
-    {"id": "prod-5ed7ea84-015", "name": "Jacket", "category": "clothing", "price": 79.99, "stock": 100, "rating": 4.5},
-    {"id": "prod-5ed7ea84-016", "name": "Sneakers", "category": "clothing", "price": 69.99, "stock": 150, "rating": 4.4},
-
-    {"id": "prod-5ed7ea84-017", "name": "Blender", "category": "kitchen", "price": 49.99, "stock": 120, "rating": 4.2},
-    {"id": "prod-5ed7ea84-018", "name": "Coffee Maker", "category": "kitchen", "price": 89.99, "stock": 90, "rating": 4.6},
-    {"id": "prod-5ed7ea84-019", "name": "Knife Set", "category": "kitchen", "price": 39.99, "stock": 180, "rating": 4.4},
-    {"id": "prod-5ed7ea84-020", "name": "Cutting Board", "category": "kitchen", "price": 15.99, "stock": 300, "rating": 4.1},
-
-    {"id": "prod-5ed7ea84-021", "name": "Desk Lamp", "category": "home", "price": 29.99, "stock": 250, "rating": 4.3},
-    {"id": "prod-5ed7ea84-022", "name": "Wall Clock", "category": "home", "price": 24.99, "stock": 180, "rating": 4.2},
-    {"id": "prod-5ed7ea84-023", "name": "Picture Frame", "category": "home", "price": 9.99, "stock": 500, "rating": 4.0}
+    { "id": "prod-5ed7ea84-001", "name": "Elite Item 1", "category": "books", "price": 153.87, "stock": 183, "rating": 1.6 },
+    { "id": "prod-5ed7ea84-002", "name": "Basic Item 2", "category": "books", "price": 312.92, "stock": 184, "rating": 3.2 },
+    { "id": "prod-5ed7ea84-003", "name": "Elite Item 3", "category": "books", "price": 307.54, "stock": 7, "rating": 2 },
+    { "id": "prod-5ed7ea84-004", "name": "Pro Item 4", "category": "books", "price": 289.04, "stock": 96, "rating": 3.9 },
+    { "id": "prod-5ed7ea84-005", "name": "Standard Item 5", "category": "sports", "price": 128.59, "stock": 199, "rating": 4.5 },
+    { "id": "prod-5ed7ea84-006", "name": "Standard Item 6", "category": "electronics", "price": 101.3, "stock": 149, "rating": 4.8 },
+    { "id": "prod-5ed7ea84-007", "name": "Basic Item 7", "category": "books", "price": 143.36, "stock": 23, "rating": 1.1 },
+    { "id": "prod-5ed7ea84-008", "name": "Elite Item 8", "category": "books", "price": 320.9, "stock": 116, "rating": 3.1 },
+    { "id": "prod-5ed7ea84-009", "name": "Elite Item 9", "category": "home", "price": 122.91, "stock": 0, "rating": 3.9 },
+    { "id": "prod-5ed7ea84-010", "name": "Elite Item 10", "category": "electronics", "price": 151.37, "stock": 71, "rating": 4.9 },
+    { "id": "prod-5ed7ea84-011", "name": "Basic Item 11", "category": "clothing", "price": 23.52, "stock": 157, "rating": 4.6 },
+    { "id": "prod-5ed7ea84-012", "name": "Elite Item 12", "category": "books", "price": 81.82, "stock": 60, "rating": 3.3 },
+    { "id": "prod-5ed7ea84-013", "name": "Standard Item 13", "category": "sports", "price": 452.11, "stock": 19, "rating": 2.3 },
+    { "id": "prod-5ed7ea84-014", "name": "Elite Item 14", "category": "sports", "price": 466.74, "stock": 162, "rating": 1.9 },
+    { "id": "prod-5ed7ea84-015", "name": "Pro Item 15", "category": "electronics", "price": 347.57, "stock": 185, "rating": 3.2 },
+    { "id": "prod-5ed7ea84-016", "name": "Pro Item 16", "category": "home", "price": 378.39, "stock": 163, "rating": 1.4 },
+    { "id": "prod-5ed7ea84-017", "name": "Elite Item 17", "category": "books", "price": 50.61, "stock": 108, "rating": 2.6 },
+    { "id": "prod-5ed7ea84-018", "name": "Standard Item 18", "category": "clothing", "price": 31.22, "stock": 87, "rating": 1.5 },
+    { "id": "prod-5ed7ea84-019", "name": "Pro Item 19", "category": "books", "price": 205.6, "stock": 17, "rating": 1.7 },
+    { "id": "prod-5ed7ea84-020", "name": "Standard Item 20", "category": "electronics", "price": 394.08, "stock": 182, "rating": 2.6 },
+    { "id": "prod-5ed7ea84-021", "name": "Basic Item 21", "category": "home", "price": 330.76, "stock": 17, "rating": 1.7 },
+    { "id": "prod-5ed7ea84-022", "name": "Standard Item 22", "category": "home", "price": 379.71, "stock": 6, "rating": 3.7 },
+    { "id": "prod-5ed7ea84-023", "name": "Premium Item 23", "category": "books", "price": 370.79, "stock": 183, "rating": 2.9 }
   ],
   "aggregations": {
     "electronics": {
