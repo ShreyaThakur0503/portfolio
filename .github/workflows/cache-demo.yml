@@ -20,14 +20,15 @@ jobs:
           python-version: "3.11"
 
       - name: Cache dependencies
-        id: cache-7eeaebf
+        id: cache
         uses: actions/cache@v4
         with:
           path: ~/.cache/pip
           key: cache-7eeaebf
 
       - name: prime-cache-7eeaebf
-        run: echo "Cache hit: ${{ steps.cache-7eeaebf.outputs.cache-hit }}"
+        run: |
+          echo "Cache hit: ${{ steps.cache.outputs.cache-hit }}"
 
       - name: Install dependencies
         run: pip install fastapi uvicorn
