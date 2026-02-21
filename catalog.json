@@ -1,4 +1,8 @@
 {
+  "metadata": {
+    "email": "23f3001921@ds.study.iitm.ac.in",
+    "version": "5ed7ea84"
+  },
   "products": [
     {
       "id": "prod-5ed7ea84-001",
@@ -188,33 +192,23 @@
   "aggregations": {
     "books": {
       "count": 10,
-      "total_stock": 977,
-      "average_price": 223.64,
-      "average_rating": 2.54
+      "inventoryValue": 237882.64
     },
     "sports": {
       "count": 3,
-      "total_stock": 380,
-      "average_price": 349.15,
-      "average_rating": 2.9
+      "inventoryValue": 109791.38
     },
     "electronics": {
       "count": 4,
-      "total_stock": 587,
-      "average_price": 248.58,
-      "average_rating": 3.87
+      "inventoryValue": 161863.98
     },
     "home": {
       "count": 4,
-      "total_stock": 186,
-      "average_price": 302.94,
-      "average_rating": 2.67
+      "inventoryValue": 69578.75
     },
     "clothing": {
       "count": 2,
-      "total_stock": 244,
-      "average_price": 27.37,
-      "average_rating": 3.05
+      "inventoryValue": 6408.78
     }
   }
 }
