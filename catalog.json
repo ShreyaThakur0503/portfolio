@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "email": "23f3001921@ds.study.iitm.ac.in",
+    "version": "5ed7ea84"
+  },
+  "products": [
+    {"id": 1, "name": "Laptop Pro", "category": "electronics", "price": 1299.99, "stock": 45, "rating": 4.5},
+    {"id": 2, "name": "Gaming Laptop", "category": "electronics", "price": 999.99, "stock": 50, "rating": 4.2},
+    {"id": 3, "name": "Tablet XL", "category": "electronics", "price": 799.99, "stock": 60, "rating": 4.0},
+    {"id": 4, "name": "Monitor 4K", "category": "electronics", "price": 599.99, "stock": 9, "rating": 4.7},
+
+    {"id": 5, "name": "Running Shoes", "category": "sports", "price": 89.99, "stock": 100, "rating": 4.3},
+    {"id": 6, "name": "Yoga Mat", "category": "sports", "price": 24.99, "stock": 200, "rating": 4.4},
+    {"id": 7, "name": "Dumbbells Set", "category": "sports", "price": 59.99, "stock": 80, "rating": 4.6},
+    {"id": 8, "name": "Water Bottle", "category": "sports", "price": 19.99, "stock": 300, "rating": 4.1},
+
+    {"id": 9, "name": "Fiction Novel", "category": "books", "price": 14.99, "stock": 500, "rating": 4.8},
+    {"id": 10, "name": "Cook Book", "category": "books", "price": 24.99, "stock": 150, "rating": 4.5},
+    {"id": 11, "name": "Science Book", "category": "books", "price": 34.99, "stock": 200, "rating": 4.3},
+    {"id": 12, "name": "History Book", "category": "books", "price": 19.99, "stock": 250, "rating": 4.2},
+
+    {"id": 13, "name": "T-Shirt", "category": "clothing", "price": 19.99, "stock": 400, "rating": 4.0},
+    {"id": 14, "name": "Jeans", "category": "clothing", "price": 49.99, "stock": 200, "rating": 4.3},
+    {"id": 15, "name": "Jacket", "category": "clothing", "price": 79.99, "stock": 100, "rating": 4.5},
+    {"id": 16, "name": "Sneakers", "category": "clothing", "price": 69.99, "stock": 150, "rating": 4.4},
+
+    {"id": 17, "name": "Blender", "category": "kitchen", "price": 49.99, "stock": 120, "rating": 4.2},
+    {"id": 18, "name": "Coffee Maker", "category": "kitchen", "price": 89.99, "stock": 90, "rating": 4.6},
+    {"id": 19, "name": "Knife Set", "category": "kitchen", "price": 39.99, "stock": 180, "rating": 4.4},
+    {"id": 20, "name": "Cutting Board", "category": "kitchen", "price": 15.99, "stock": 300, "rating": 4.1},
+
+    {"id": 21, "name": "Desk Lamp", "category": "home", "price": 29.99, "stock": 250, "rating": 4.3},
+    {"id": 22, "name": "Wall Clock", "category": "home", "price": 24.99, "stock": 180, "rating": 4.2},
+    {"id": 23, "name": "Picture Frame", "category": "home", "price": 9.99, "stock": 500, "rating": 4.0}
+  ],
+  "aggregations": {
+    "electronics": {
+      "count": 4,
+      "inventoryValue": 161863.98
+    }
+  }
+}
